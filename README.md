@@ -1,6 +1,7 @@
 # store_poc
 
-A new Flutter project.
+<img width="412" alt="image" src="https://github.com/theideasaler/flutter-store-poc/assets/17869748/c2dbbecb-9b10-4331-b8a4-35b4a2611985">
+
 
 ## Getting Started
 
